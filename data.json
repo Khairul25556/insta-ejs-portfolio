@@ -1,0 +1,74 @@
+{
+
+    "cats": {
+        "name": "cats",
+        "followers": 25000,
+        "following": 5,
+        "posts": [
+            {
+                "images": "https://images.unsplash.com/photo-1543852786-1cf6624b9987?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "likes": 200,
+                "comments": 15
+            },
+            {
+                "images": "https://images.unsplash.com/photo-1536589961747-e239b2abbec2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "likes": 800,
+                "comments": 115
+            },
+            {
+                "images": "https://images.unsplash.com/photo-1548546738-8509cb246ed3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "likes": 1800,
+                "comments": 705
+            }
+        ]
+    },
+
+    
+    "dogs": {
+        "name": "dogs",
+        "followers": 35000,
+        "following": 160,
+        "posts": [
+            {
+                "images": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "likes": 2000,
+                "comments": 150
+            },
+            {
+                "images": "https://images.unsplash.com/photo-1625316708582-7c38734be31d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "likes": 860,
+                "comments": 118
+            },
+            {
+                "images": "https://images.unsplash.com/photo-1552053831-71594a27632d?q=80&w=1924&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "likes": 2800,
+                "comments": 905
+            }
+        ]
+    },
+
+    "valorant": {
+        "name": "valorant",
+        "followers": 204000,
+        "following": 10000,
+        "posts": [
+            {
+                "images": "https://i.ytimg.com/vi/dtx8CgjRmqE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCwpQyXFZ6M7cHxRfuq32FbSHQWDw",
+                "likes": 200,
+                "comments": 15
+            },
+            {
+                "images": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0122/fd060acba552e9bba869ea0cf8c629a9a11801bca4eca092.png?w=440",
+                "likes": 800,
+                "comments": 115
+            },
+            {
+                "images": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/156cfb475b2a74294bd2b270dfbf6f122e1793b0-1920x1080.jpg?auto=format&fit=fill&q=80&w=1082",
+                "likes": 1800,
+                "comments": 705
+            }
+        ]
+    }
+
+
+}

@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 30px auto 0;
+    padding: 20px;
+    background: white;
+    border: 1px solid #dbdbdb;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  .username {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  
+  .buttons {
+    margin-bottom: 15px;
+  }
+  
+  .buttons button {
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .follow-btn {
+    margin-right: 10px;
+    border: none;
+    background-color: #0095f6;
+    color: white;
+  }
+  
+  .message-btn {
+    border: 1px solid #dbdbdb;
+    background-color: white;
+    color: #262626;
+  }
+
+  .send-btn{
+    margin-right: 10px;
+    border: none;
+    background-color: #0095f6;
+    color: white;
+  }
+  
+  .msg{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 2rem;
+  }
+  .input{
+    display: none;
+  }
+  
+  .info {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  hr {
+    border: none;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+  }
+  
+  .post {
+    margin-bottom: 30px;
+  }
+  
+  .post img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+    border: 1px solid #dbdbdb;
+  }
+  
+  .post p {
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
