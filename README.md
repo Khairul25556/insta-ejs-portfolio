@@ -10,6 +10,9 @@ A personal portfolio web application built using **Node.js**, **Express**, and *
 - Sections: About, Skills, Projects, Education, Contact
 - Clean and minimalistic UI
 
+## Demo
+![My gif](demo.gif)
+
 ## Dynamic Routing – /id/ (Local Server Feature)
 -This project supports dynamic routing on your local server to display custom content pages using a single template.
 * Example Route:
